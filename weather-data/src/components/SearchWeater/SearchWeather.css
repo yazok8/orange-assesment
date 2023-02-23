@@ -1,0 +1,28 @@
+
+.weather-container{
+    max-width: 100%;
+    
+}
+
+.weather-container input{
+    width: 10rem;
+}
+
+
+.weather-container button{
+    width: 100px;
+}
+
+.weather-container span{
+    display: block;
+    margin-block: 15px;
+    font-weight: bold;
+}
+
+.weather-container h2{
+    margin-top: 20px;
+}
+
+.search-container{
+    margin-block: 50px;
+}
