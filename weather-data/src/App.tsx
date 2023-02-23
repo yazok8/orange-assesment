@@ -1,10 +1,9 @@
-import "./App.css";
 import SearchWeather from "./components/SearchWeater/SearchWeather";
 
 function App() {
 
   return (
-    <div className="App">
+    <div>
       <SearchWeather />
 
     </div>
